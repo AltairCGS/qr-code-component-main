@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-CfziI2RsBt](https://www.frontendmentor.io/solutions/product-preview-card-component-CfziI2RsBt)
-- Live Site URL: [https://altaircgs.github.io/product-preview-card-component-main/](https://altaircgs.github.io/product-preview-card-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-BpvfKKU3XK](https://www.frontendmentor.io/solutions/qr-code-component-BpvfKKU3XK)
+- Live Site URL: [https://altaircgs.github.io/qr-code-component-main/](https://altaircgs.github.io/qr-code-component-main/)
 
 ## My process
 
